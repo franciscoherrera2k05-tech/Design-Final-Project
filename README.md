@@ -2,6 +2,8 @@
 
 The final product is a collection of a stacked barchart, a paired scatterplot with regression lines and heatmap, multiple line graphs of instrumentation, and a steamgraph of sonority. The goal is for the reader to acknowledge the paired plot and realize that music has "gotten simpler" since the 1950's, but then to utilize the remaining figures to think critically about that initial claim. When looking at the other figures, the reader should realize that there are MANY factors to consider (significantly more than what I mentioned in the infographic), and that the measurement used is just one of many.
 
+##### Note: infographic is more legible when looking at the .png in the repo!
+
 ___
 ### Title of Final Product:
 Has Music Gotten Simpler Since the 1950’s?
